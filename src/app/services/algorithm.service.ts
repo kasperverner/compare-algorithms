@@ -90,7 +90,7 @@ export class AlgorithmService {
       }
 
       return null;
-    }, 200);
+    }, 150);
 
     return null;
   }
@@ -173,7 +173,7 @@ export class AlgorithmService {
       }
 
       return null;
-    }, 200);
+    }, 150);
 
     return null;
   }
